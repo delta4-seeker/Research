@@ -1,0 +1,2 @@
+//# sourceMappingURL=allow_copy_link.js.map
+$(function(){var b=$(".with_menu");$(".disabled_link").on("click",function(a){a.preventDefault();return!0});b.delegate("","click",function(a){$(a.target).closest("form").submit()});b.on("mouseenter",function(a){a=$(a.target);var b=a.closest("form").prop("action");a.closest(".disabled_link").prop("href",b)})});
