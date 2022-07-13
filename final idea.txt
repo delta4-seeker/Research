@@ -1,0 +1,40 @@
+a new method of interpreting brwain activity could potentially be used in clinics to help detesrmining the best  treatement options fr depresiion, migrain and epelypse. 
+
+Can you detect depression from EEG?
+In addition, depression as a mental disorder with clinical manifestations such as significant depression and slow thinking is always accompanied by abnormal brain activity and obvious emotional alternation. Therefore, as a method tracking the brain functions, EEG can detect these abnormal activities.
+
+Can migraines be detected on EEG?
+In most cases, EEG is used to diagnose seizures, with or without corresponding headaches. It is often used to distinguish between migraine headaches and partial seizures. Epilepsy and migraine headaches both may have an aura that precedes the actual event.
+
+Cana epelypse be detected by EEG? 
+EEG results show changes in brain activity that may be useful in diagnosing brain conditions, especially epilepsy and other seizure disorders. An electroencephalogram (EEG) is a test that measures electrical activity in the brain using small, metal discs (electrodes) attached to the scalp.
+
+what is the foundation for our research ? 
+ 
+Spontaneous EEG patterns are studied to detect migraine,depression or epelypse patients both during the attack and in headache-free periods. The EEG signals are analyzed through the wavelets and both scale-dependent and scale-independent features are computed to characterize the patterns. The classification is carried out by a supervised neural network. ref https://ieeexplore.ieee.org/abstract/document/4352671/figures#figures
+
+what is our research about ? 
+after measuring the physiological variable using brain waves, we will collect data of patient before and after medication to find the effectiveness of medication. so we will compare the data collected before medication and after medication and find patterns in the data using AI to provide more personalise treatement to patient. 
+
+what can we research about ? 
+we can measure the effectiveness of medicine.
+we can compare different medication quality and quantity
+we can predict better methods of treatement after knowing the resilience of patient towards the treatments.
+
+
+we will make a system that reads the brain wave and other physiological varaible(optional) of patient, records it, will have a buttom to press when the patient takes medicine or has major attack for marking on timeline.
+then after collecting the data, we have to built a AI model to classify the data and find patterns in it.
+
+to built the device we will need a wearable brain wave detection device(like brain-wear), raspberry pi for data storage and transmitting, and a server to store the data and run AI algorithms.
+
+We will require few host(patient) to wear the device until our research time period. 
+
+Research team member are requested to find more information on how to do this experiement and add this content to the proposal draft as foundation. 
+We dont have much time and so many work, so i request botht team members to prioties this proposal and do as much hard work to make this proposal stand out.
+
+
+
+
+
+
+
